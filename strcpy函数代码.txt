@@ -37,3 +37,7 @@ char* Strpy(char* src)
  }  
  return 0;  
  } 
+
+/**
+Remote edit B21032416倪天驰
+**/
